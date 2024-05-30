@@ -1,2 +1,2 @@
 Java is high level object oriented language.
-Java is the most popular programming language.
+Everything java is in the form of classes and objects.
