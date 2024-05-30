@@ -1,1 +1,2 @@
-Java is being developed by James Gosling at Sun Micro Systems
+Java is being developed by James Gosling at Sun Micro Systems.
+Java is being used by many MNC in the world.
